@@ -3,7 +3,7 @@
 define('DB_HOST', 'localhost');
 define('DB_NAME', 'new_schema');
 define('DB_USER', 'root');
-define('DB_PASS', 'CapstoneChu25');
+define('DB_PASS', '');
 
 // Create connection
 try {
@@ -16,4 +16,5 @@ try {
 // Website configuration
 define('SITE_NAME', 'Capstone 2025 Team 3');
 define('SITE_URL', 'http://localhost/capstone');
+
 ?>
