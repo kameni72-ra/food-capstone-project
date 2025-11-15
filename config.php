@@ -13,8 +13,9 @@ try {
     die("Connection failed: " . $e->getMessage());
 }
 
-// Website configuration
+// site configuration
 define('SITE_NAME', 'Capstone 2025 Team 3');
 define('SITE_URL', 'http://localhost/capstone');
 
 ?>
+
